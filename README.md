@@ -1,8 +1,8 @@
 # Nice to meet you, my name is Luanda 👋
-Estudante Cursando bacharelado em Engenharia de Computação e terminando Técnico em Automação Industrial. 
+Student studying a bachelor's degree in Computer Engineering and finishing Industrial Automation Technician.
 
 ## About me 👩
-Student studying a bachelor's degree in Computer Engineering and finishing Industrial Automation Technician.
+I am known for being very curious and hard-working, usually when I come across a problem I don't get it out of my head until I solve it.
 
 
 **Learning More**
