@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nice to meet you, my name is Luanda 👋
+Estudante Cursando bacharelado em Engenharia de Computação e terminando Técnico em Automação Industrial. 
 
-<!--
-**LuandaLl/LuandaLl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 👩
+Student studying a bachelor's degree in Computer Engineering and finishing Industrial Automation Technician.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning More**
+|---------|
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-777BB4?style=for-the-badge&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Skills 👩‍💻**
+|-----|
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=gitt&logoColor=FF4500)
+
+
+**Social Network**
+|-----|
+|[![Linkedin](https://img.shields.io/badge/linkedin-3670A0?style=for-the-badge&logo=linkedin&logoColor=ffdd54)](https://www.linkedin.com/in/luanda-limamoura/)
