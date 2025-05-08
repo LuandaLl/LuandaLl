@@ -1,6 +1,6 @@
 
 #  👩‍💻Luanda Lima
-**Student of computer engineering - UNIVESP | C++ | HTML | PYTHON**
+**Computer engineering - UNIVESP | C++ | HTML | PYTHON**
 
 My name is Luanda, I'm 19 years old, and I'm from the interior of São Paulo.
 I'm currently studying industrial automation at IFSP and computer engineering at UNIVESP.
