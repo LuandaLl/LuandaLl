@@ -89,6 +89,7 @@ Seeking an intern or trainee in Computer Engineering, with an interest in automa
 />
 
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph-dark.svg">
@@ -96,4 +97,5 @@ Seeking an intern or trainee in Computer Engineering, with an interest in automa
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
