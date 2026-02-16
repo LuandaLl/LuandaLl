@@ -2,6 +2,16 @@
 #  👩‍💻Luanda Lima
 **Computer Engineering | Experience in Industrial Processes, Administration and Programming | Javascript | Python**
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 I am a Computer Engineering student and Industrial Automation Technician with experience in industrial processes, administrative routines, and technological development. I have worked at large companies such as Sabesp, Tasco, and Ethos Industrial, developing a practical perspective on production efficiency, systems integration, and process management.
 
 Unique in combining industry experience with knowledge of technology and programming: Python, C++, JavaScript, GitHub Copilot, and Azure Machine Learning, enabling a holistic view of business and innovation.
@@ -88,14 +98,4 @@ Seeking an intern or trainee in Computer Engineering, with an interest in automa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuandaLl/LuandaLl/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
