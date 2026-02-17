@@ -14,7 +14,7 @@
    
 </div>
 
-**Computer Engineering | Experience in Industrial Processes, Administration and Programming | Javascript | Python**
+**Computer Engineering | Experience in Industrial Processes, Administration and Programming | Java**
 
 ###
 
