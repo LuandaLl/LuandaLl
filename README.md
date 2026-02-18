@@ -32,10 +32,7 @@ Unique in combining industry experience with knowledge of technology and program
 
 Also volunteer on projects providing emotional support to the elderly, developing empathy, active listening, and social responsibility skills.
 
-Seeking an intern or trainee in Computer Engineering, with an interest in automation, industrial technology, and software development, applying an integrated approach to industry and IT to generate efficiency, innovation, and sustainable results, as well as positive impacts.P.
->I'm passionate about computing and I share my knowledge on the YouTube channel [Luanda Lima](https://www.youtube.com/@LuandaLm) where I post the projects I'm currently working on.
-
----
+Seeking an intern or trainee in Computer Engineering, with an interest in automation, industrial technology, and software development, applying an integrated approach to industry and IT to generate efficiency, innovation, and sustainable results, as well as positive impacts.
 
 ## 💻 Languages ​​and technology
 
