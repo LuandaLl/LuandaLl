@@ -28,7 +28,7 @@
 
 I am a Computer Engineering student and Industrial Automation Technician with experience in industrial processes, administrative routines, and technological development. I have worked at large companies such as Sabesp, Tasco, and Ethos Industrial, developing a practical perspective on production efficiency, systems integration, and process management.
 
-Unique in combining industry experience with knowledge of technology and programming: Python, C++, JavaScript, GitHub Copilot, and Azure Machine Learning, enabling a holistic view of business and innovation.
+Unique in combining industry experience with knowledge of technology and programming: Java, JavaScript, GitHub Copilo.
 
 Also volunteer on projects providing emotional support to the elderly, developing empathy, active listening, and social responsibility skills.
 
